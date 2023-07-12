@@ -1,0 +1,16 @@
+.titulo-principal{
+    text-align: center;
+    margin: 50px 0 0 0;
+    font-family: 'Racing Sans One', cursiva;
+    font-weight: bold;
+    font-size: 50px;
+    text-shadow: 0 0 4px #fff,
+    0 0 10px #fff,
+    0 0 15px #fff,
+    0 0 20px rgb(255, 8, 0),
+    0 0 25px rgb(255, 182, 182),
+    0 0 30px rgb(24, 151, 255),
+    0 0 40px rgb(230, 125, 125),
+    0 0 50px rgb(255, 255, 255); ;
+    
+}

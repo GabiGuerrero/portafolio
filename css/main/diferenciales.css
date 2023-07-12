@@ -1,0 +1,44 @@
+
+.diferenciales h2{
+    margin: 115px 0 20px 0;
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 30px ;
+ 
+}
+
+/*.diferenciales h2{
+    margin: 115px 0 0 0;
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+
+}*/
+
+.contenido-diferenciales{
+    margin: 15px 0 0 30px;
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.contenido-diferenciales li{
+    margin: 15px;
+    font-size: 25px ;
+}
+
+.lista-diferenciales strong{
+    text-align: center;
+    font-size: 15px;
+    color:#000000;
+    box-shadow: 
+    0 0 4px #fff,
+    0 0 10px #fff,
+    0 0 15px #fff,
+    0 0 20px rgb(255, 153, 0),
+    0 0 25px rgb(255, 170, 73),
+    0 0 30px rgb(255, 251, 0),
+    0 0 40px rgb(255, 240, 29),
+    0 0 50px rgb(255, 217, 0); ;
+     
+}
