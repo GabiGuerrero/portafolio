@@ -1,7 +1,9 @@
 
 .lista-lenguajes-tec li{
-    border: solid 1px #000000;
+    
     text-align: center;
+    border-radius: 5px;
+    flex-shrink: 0;
     font-size: 25px; 
     padding: 20px 0 20px 0;
     margin: 25px;

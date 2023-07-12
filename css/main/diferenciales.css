@@ -2,6 +2,7 @@
 .diferenciales h2{
     margin: 115px 0 20px 0;
     text-align: left;
+    flex-shrink: 0;
     font-family: Arial, Helvetica, sans-serif;
     font-weight: bold;
     font-size: 30px ;
@@ -19,12 +20,14 @@
 .contenido-diferenciales{
     margin: 15px 0 0 30px;
     text-align: left;
+    flex-shrink: 0;
     font-family: Arial, Helvetica, sans-serif;
 
 }
 .contenido-diferenciales li{
     margin: 15px;
     font-size: 25px ;
+    flex-shrink: 0;
 }
 
 .lista-diferenciales strong{

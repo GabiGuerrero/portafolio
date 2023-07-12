@@ -1,6 +1,7 @@
 .de-mi h2{
     
     text-align: left;
+    flex-shrink: 0;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 30px ;
     font-weight: bold;
@@ -10,6 +11,7 @@
 .de-mi p{
     margin: 0 0 5px;
     font-size: 25px ;
+    flex-shrink: 0;
     font-family: Arial, Helvetica, sans-serif;
 }
 
